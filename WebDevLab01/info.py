@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/IMG_0177.JPG"
+profile_picture = "WebDevLab01/Images/IMG_0177.JPG"
 about_me = "I'm Heather Mikula! I work at the Georgia Tech pharmacy as a pharmacy technician!"
 
 
