@@ -43,7 +43,7 @@ q1 = st.radio(
     ["Snowy owl", "Ginger cat", "Toad", "Serpent"],
     index=None,
 )
-st.image("images/snowowl.jpeg")
+st.image("WebDevLab01/Images/snowowl.jpeg")
 
 q2 = st.multiselect(  
     "2) Choose the traits you admire most (pick any):",
