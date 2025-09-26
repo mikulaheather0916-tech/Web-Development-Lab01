@@ -5,7 +5,7 @@ import time
 # Page Config and Title
 st.set_page_config(page_title="Which Hogwarts House Are You?")
 st.title("Which Hogwarts House Are You?")
-st.image("images/hogwarts_crest.jpg")
+st.image("WebDevLab01/Images/hogwarts_crest.jpg")
 
 st.write(
     """
