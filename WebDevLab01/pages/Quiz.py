@@ -77,7 +77,7 @@ q5 = st.selectbox(
     ],
 )
 
-st.image("images/sortinghat.png")
+st.image("WebDevLab01/Images/sortinghat.png")
 # Evaluate
 if st.button("Sort me!"):
     if q1 is None or not q2:
