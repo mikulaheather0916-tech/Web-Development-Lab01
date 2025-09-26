@@ -34,7 +34,7 @@ experience_data = {
     "Pharmacy Technician": (["- Worked on ProPharm",
                                                                           "- Took september invoices and ran numbers", "- Made my boss Nina proud"],"Images/pills.jpeg"),
     "FASET Leader":(["- Made peoples schedules",
-                                                           "- Gave mini tours around campus"],"Images/faset.jpeg"),
+                                                           "- Gave mini tours around campus"],"WebDevLab01/Images/faset.jpeg"),
     "Caretaker":(["- Provided care for a woman with Alzheimers"],"WebDevLab01/Images/care.jpeg")
 
 }
