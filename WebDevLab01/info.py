@@ -67,7 +67,7 @@ spoken_data = {
     "Spanish": "Conversational",
 }
 leadership_data = {
-    "Beta Vice President": (["- Organized and events with the president"],"Images/beta.jpeg"),
+    "Beta Vice President": (["- Organized and events with the president"],"WebDevLab01/Images/beta.jpeg"),
 
 }
 activity_data={
